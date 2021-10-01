@@ -8,7 +8,7 @@ public class SimpleController {
 
 	@GetMapping("/simple")
 	public String simple() {
-		return "Hello world! This is CSC 131!";
+		return "Hello world! This is us learning how Git flows!";
 	}
 
 }
